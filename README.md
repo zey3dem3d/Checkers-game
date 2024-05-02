@@ -1,2 +1,1 @@
-The main idea of this project is to develop a Checkers game that integrated with artificial intelligence
-and the ability to act as the player’s opponent.
+The game pieces in checkers - are usually red and black. Players move diagonally on the board, trying to reach the opposite side where their pieces can be "kinged," or doubled, giving them more powers. On the way, a player attempts to jump over her opponent's pieces and capture them.
